@@ -1,3 +1,8 @@
+## Use https://github.com/Ciki/ReCaptchaControl instead as it supports AJAX 
+
+<br>
+<br><br><br><br><br><br>
+
 ![](https://heatbadger.now.sh/github/readme/contributte/recaptcha/)
 
 <p align=center>
